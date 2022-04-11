@@ -10,13 +10,13 @@ Most of the programming guide is the same as the original, but I added some of m
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
 - [tier 0 - The Odin Projekt - Fullstack Javascript](#tier-0---the-odin-project---fullstack-javascript)
 - [tier 1 - Getting Started](#tier-1---getting-started)
-- [tier 1 - Specialization - App Academy Open](#tier-1---specialization---app-academy-open)
+- [tier 1 - Specialization - App Academy Open](#tier-1-specialization---app-academy-open)
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 2 - Specialization - CS Algorithms](#tier-2---specialization---cs-algorithms)
+- [tier 2 - Specialization - CS Algorithms](#tier-2-specialization---cs-algorithms)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
-- [tier 3 - Specialization - CS Advanced Algorithms](#tier-3---specialization-cs-advanced-algorithms)
+- [tier 3 - Specialization - CS Advanced Algorithms](#tier-3-specialization-cs-advanced-algorithms)
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 4 - Specialization - CS Intensive](#tier-4---specialization---cs-intensive)
+- [tier 4 - Specialization - CS Intensive](#tier-4-specialization---cs-intensive)
 - [tier 5 - Specialize](#tier-5---specialize)
 
 -------------------------------------------------------------------------------------------------------------------------------------

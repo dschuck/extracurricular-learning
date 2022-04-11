@@ -78,7 +78,9 @@ Most of the programming guide is the same as the original, but I added some of m
 | Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
 | Tier Programming Project                                                                                                                                                                               |            |              |
 | Tier Programming Project                                                                                                                                                                               |            |              |
-| **Specialization: App Academy Open**                                                                                                                                                                   | **Status** | **Evidence** |
+
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
 | Welcome To Coding                                                                                                                                                               |            |              |
 | Full Stack Online - Intro to Programming                                                                                                                                        |            |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                            |            |              |

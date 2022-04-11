@@ -1,6 +1,6 @@
 # Computer Science and Programming
 
-This is my guide for an extracurricular learning path in computer science and programming. I'm using this alongside my education as an IT specialist in application development to complement my scholastic education and fill in some holes left by a focused work day.
+This is my guide for an extracurricular learning path in computer science and programming. I'm using this alongside my education as an IT specialist in application development to complement my scholastic education and fill in some holes left by a topic focused work day.
 
 **Note:** The base of this guide is my personalized fork of the awesome Computer Science and Programming Guide by P1xt, so many thanks and credit goes to P1xt. Please check out the full original guide over at [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides). 
 Most of the programming guide is the same as the original, but I added some of my own ressources here and there to supplement some of the learning. This repo is only to keep track of my learning, all links will be to seperate repos where I keep notes, questions/answers and code.

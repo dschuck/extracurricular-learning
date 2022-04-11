@@ -53,7 +53,7 @@ Most of the programming guide is the same as the original, but I added some of m
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
 
-### Tier 1 - Getting Started + App Academy Open
+### Tier 1 - Getting Started
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
@@ -78,6 +78,8 @@ Most of the programming guide is the same as the original, but I added some of m
 | Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
 | Tier Programming Project                                                                                                                                                                               |            |              |
 | Tier Programming Project                                                                                                                                                                               |            |              |
+
+### Tier 1 Specialization - App Academy Open
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
@@ -128,8 +130,11 @@ Most of the programming guide is the same as the original, but I added some of m
 | Complete [Google Code Jam 2018](https://codingcompetitions.withgoogle.com/codejam/archive/2018)                                                                                                                    |            |              |
 | Complete [FaceBook Hacker Cup 2017](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                               |            |              |
 | Tier Programming Project                                                                                                                                                                                           |            |              |
-| Tier Programming Project                                                                                                                                                                                           |            |              |
-| **Specialization: CS Algorithms**                                                                                                                           | **Practice**                                                                                                                                                                                                                                              | **Status** | **Evidence** |
+| Tier Programming Project                                                                                                                                                                                           |            |              |                                                                                                                   
+
+### Tier 2 Specialization - CS Algorithms
+
+| **Practice**                                                                                                                                                                                                                                              | **Status** | **Evidence** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Pick: Study [C](https://www.geeksforgeeks.org/c-programming-language/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language               |            |              |
 | or Pick: Study [C++](https://www.geeksforgeeks.org/c-plus-plus/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language                    |            |              |
@@ -179,8 +184,12 @@ Most of the programming guide is the same as the original, but I added some of m
 | Complete [Google Code Jam 2017](https://codingcompetitions.withgoogle.com/codejam/archive/2017)                                                                                                                                                            |            |              |
 | Complete [FaceBook Hacker Cup 2016](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                                                                       |            |              |
 | Tier Programming Project                                                                                                                                                                                                                                   |            |              |
-| Tier Programming Project                                                                                                                                                                                                                                   |            |              |
-| **Specialization: CS Advanced Algorithms**                                                                                                                 | **Practice**                                                                                                                                                                                                                                                   | **Status** | **Evidence** |
+| Tier Programming Project                                                                                                                                                                                                                                   |            |              |                                                                                                               
+
+
+### Tier 3 Specialization - CS Advanced Algorithms
+
+| **Practice**                                                                                                                                                                                                                                                   | **Status** | **Evidence** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)                                            |            |              |
 | [Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)                        |            |              |
@@ -233,7 +242,10 @@ Most of the programming guide is the same as the original, but I added some of m
 | Complete [FaceBook Hacker Cup 2015](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                  |            |              |
 | Tier Programming Project                                                                                                                                                                              |            |              |
 | Tier Programming Project                                                                                                                                                                              |            |              |
-| **Specialization: CS Intensive**                                                                                                                           
+
+
+### Tier 4 Specialization - CS Intensive
+
 | **Practice**                                                                                                                                                                                                                                                   | **Status** | **Evidence** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Study all topics for [Graduate Aptitude Test in Engineering](https://www.geeksforgeeks.org/gate-cs-notes-gq/)                                                                                                                                                  |            |              |
